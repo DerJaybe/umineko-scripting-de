@@ -200,13 +200,13 @@
 `Vielleicht werden Menschen größer, wenn ihr Wachstumsschub zu spät kommt." `
 `"Ne, das ist nichts Besonderes. `
 `Ein echter Mann muss auch innerlich stark sein!" `
-`"Exactly! `
-`Battler-kun here knows how it works! `
-`Real men win or lose based on what they've got on the inside! `
-`Can't ever forget to keep up your trainin' and discipline. `
-`You gotta do that, wait veeery alertly for the perfect moment...and strike! `
-`Now, I never even imagined that I'd become the company president I am today, master of my own domain... `
-`Yep, to think I've come this far after starting out penniless and ruined...!" `
+`"Ganz genau! `
+`Battler-kun weiß, wie's geht! `
+`Wahre Männer gewinnen oder verlieren mit dem, was sie in ihrem Herzen tragen! `
+`Vergiss nie, dein Training und deine Disziplin aufrecht zu erhalten. `
+`Man muss auf den riiiichtigen Moment warten... und zuschlagen! `
+`Ich hätte mir nie träumen lassen, dass ich einmal der Unternehmer sein würde, der ich heute bin, Herr über mein eigenes Gebiet... `
+`Wenn ich daran denke, wie weit ich gekommen bin, nachdem ich mittellos und ruiniert angefangen habe...!" `
 `This stout, plump, old guy is `
 `George-aniki's dad, Uncle Hideyoshi ({p:0:秀吉}). `
 `He's the husband of Dad's older sister. `
