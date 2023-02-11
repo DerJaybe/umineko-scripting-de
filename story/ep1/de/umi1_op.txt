@@ -559,46 +559,46 @@
 `Es scheint, dass sich die Menschen doch nicht so sehr ändern. `
 `Ich bin ein bisschen froh, dass sie immer noch das reine, unschuldige Mädchen ist, das ich in Erinnerung habe. `
 `Ihr Name wird {p:0:真里亞} geschrieben. `
-`...Of course, `
-`{p:0:真里亞} is pronounced "Maria". `
-`The third character looks like a cross, which is pretty cool. `
-`Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside. `
-`On the inside, she's just a sweet, normal girl. `
-`Then there's Maria's mother, Aunt Rosa. `
-`She's my dad's younger sister. `
-`Rosa is written {p:0:楼座}. `
-`...Here's a name that's totally not Japanese. `
-`Sorry to say it, but her name's almost as ridiculous as Dad's... `
-`I've got to respect her for not ending up as screwed up as he is. `
-`...When I think about it, all the names in my family sound foreign. `
-`Just why is Grandfather so obsessed with that? `
-`Because of him, even we grandchildren have to put up with this weird naming sense. `
-`It's even more annoying since Grandfather's own name is perfectly normal. `
-`Anyway, there's one thing about Aunt Rosa that's a relief compared to the other family members. `
-`The old bastard and Aunt Eva have this annoying urge to tease and mock people all the time, `
-`but even though she shares their blood, Aunt Rosa isn't like that at all. `
-`She has the most common sense among all the siblings. `
-`Like Uncle Hideyoshi, she's a kind aunt who'll always be on the kids' side. `
-`......However, possibly because she's more strict as a parent, she's not liberal with handing out spending money like Uncle Hideyoshi. `
+`...Natürlich, `
+`{p:0:真里亞} wird "Maria" ausgesprochen. `
+`Das dritte Zeichen sieht aus wie ein Kreuz. Das ist ziemlich cool. `
+`Ihre Gefühle zeigen sich normalerweise nicht in ihrem Gesicht, so dass es schwierig sein kann, herauszufinden, was sie denkt, aber so sieht sie eben nach außen hin aus. `
+`In ihrem Innern ist sie ein ganz normales, süßes und liebes Mädchen. `
+`Und dann ist da noch Marias Mutter, Tante Rosa. `
+`Sie ist die jüngere Schwester meines Vaters. `
+`Rosa wird {p:0:楼座} geschrieben. `
+`... Hier ist ein Name, der ganz und gar nicht japanisch ist. `
+`Tut mir leid, das zu sagen, aber ihr Name ist fast so lächerlich wie der von Dad... `
+`Ich muss ihr Respekt zollen: Sie ist nicht so verkorkst wie er. `
+`Alle Namen in meiner Familie klingen fremd, wenn ich so darüber nachdenke. `
+`Warum ist Großvater so besessen davon? `
+`Seinetwegen müssen sogar wir Enkelkinder uns mit dieser seltsamen Namensgebung abfinden. `
+`Angesichts der Tatsache, dass Großvaters eigener Name völlig normal ist, ist es umso schlimmer. `
+`Jedenfalls gibt es eine Sache, die Tante Rosa im Vergleich zu den anderen Mitgliedern der Familie leichter fällt. `
+`Der alte Bastard und Tante Eva haben diesen lästigen Drang, die Leute ständig zu ärgern und zu verspotten, `
+`aber obwohl sie ihr Blut teilt, ist Tante Rosa ganz und gar nicht so. `
+`Von allen Geschwistern hat sie den meisten gesunden Menschenverstand. `
+`Wie Onkel Hideyoshi ist sie eine nette Tante, die den Kindern immer zur Seite steht. `
+`...... Vielleicht, weil sie eine strengere Mutter ist, ist sie beim Taschengeld nicht so großzügig wie Onkel Hideyoshi. `
 `Okay. `
-`Now we have the entire group of family members who are going to board the plane. `
-`At that moment, as though it had waited for us all to arrive, an announcement rang out through the lobby. `
-`"Our apologies for the delay. `
-`Boarding will now commence for Flight 201 to Niijima. `
-`We ask that the passengers please form two lines in front of the counter, behind the white line." `
-`"Rosa, you still haven't gone through boarding procedures, right? Hurry up." `
-`"Oh no...! `
-`Maria, come on!" `
+`Jetzt haben wir die ganze Gruppe der Familienmitglieder, die an Bord des Flugzeugs gehen werden. `
+`In diesem Moment ertönte eine Durchsage in der Lobby, als hätte sie auf unsere Ankunft gewartet. `
+`"Wir entschuldigen uns für die Verzögerung. `
+`Das Boarding für den Flug 201 nach Niijima beginnt jetzt. `
+`Die Fahrgäste werden gebeten, sich in zwei Reihen vor dem Schalter hinter der weißen Linie aufzustellen. `
+`"Rosa, du hast immer noch nicht die Einsteigeprozedur hinter dir, richtig? Beeile dich." `
+`"Oh nein...! `
+`Maria, komm jetzt mit!" `
 `"Uu-!" `
-`We had to go through a metal detector before going out on the runway. `
-`Our small plane wasn't as massive as an international flight, but it was still a plane. `
-`A staff member holding a metal detector checked us all. `
-`Once all of us cleared the check, we followed the staff member out onto the runway. `
-`Come to think of it, everyone here is in the Ushiromiya family. `
-`It's like this is a reserved charter flight or something. `
-`Our group stopped in front of the entrance to the airplane. `
-`Then, our guide turned around and spoke, looking down at the passenger list as he did. `
-`"Boarding will now commence. `
+`Wir mussten durch einen Metalldetektor gehen, bevor wir auf die Startbahn gingen. `
+`Unser kleines Flugzeug war nicht so groß wie ein Auslandsflug, aber es war immer noch ein Flugzeug. `
+`Wir wurden alle von einem Mitarbeiter mit einem Metalldetektor kontrolliert. `
+`Nachdem wir alle die Kontrolle passiert hatten, folgten wir dem Mitarbeiter auf die Startbahn. `
+`Wenn ich es mir recht überlege, sind hier alle Mitglieder der Familie Ushiromiya. `
+`Es ist, als wäre dies ein reservierter Charterflug oder so etwas. `
+`Unsere Gruppe blieb vor dem Eingang des Flugzeugs stehen. `
+`Mit einem Blick auf die Passagierliste drehte sich unser Reiseleiter um und begann zu sprechen. `
+`"Das Boarding wird nun beginnen. `
 `As I call out the names on the passenger list, `
 `please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row. `
 `I will now begin reading the passenger list. `
