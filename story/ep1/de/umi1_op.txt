@@ -1,17 +1,17 @@
 `"............Schon wieder. `
-`...Du hast also deine Liebe zum Alkohol immer noch nicht überwunden?" `
+`...Du hast deine Liebe zum Alkohol also immer noch nicht überwunden?" `
 `Der alte Arzt seufzte, als er das Stethoskop abnahm. `
-`Zwei ältere Männer waren in dem schwach beleuchteten Arbeitszimmer zu sehen, das von Staub und einem übelriechenden Gestank erfüllt war. `
+`Zwei ältere Männer standen in dem schwach beleuchteten, staubigen und übel riechenden Arbeitszimmer. `
 `In der Ecke dieses Raumes, der viel größer war als das, was die meisten Menschen ein Arbeitszimmer nennen würden, `
 `stand ein teuer aussehendes Bett, ein Mann, der untersucht wurde, und der Arzt, der die Untersuchung durchführte. `
-`Es gab auch jemanden, der wie ein Bediensteter aussah, der die ganze Angelegenheit überwachte. `
+`Da war auch jemand, der aussah wie ein Bediensteter, der die ganze Sache überwachte. `
 `"Die Flasche ist mein Freund. `
-`Sie ist kein geringerer Freund als du, und sie steht mir sogar schon länger zur Seite als du." `
+`Sie ist kein geringerer Freund als du, und sie ist schon länger bei mir als du es bist." `
 `Während der Mann, der seine Brust für das Stethoskop entblößte, seine Kleidung neu ordnete, sprach er ohne Umschweife. `
 `"............Kinzo‐{c:86EF9C:san}. `
-`... Dein Körper scheint nur dank der Wirkung des Medikaments gesund zu sein. `
-`Wenn du aber weiterhin so starke Spirituosen trinkst, wird die Behandlung sinnlos sein. `
-`...Vertraue meinem Urteilsvermögen. `
+`... Dein Körper scheint nur dank der Wirkung der Medizin gesund zu sein. `
+`Aber wenn du weiterhin so viel Alkohol trinkst, wird die Behandlung nichts nützen. `
+`...Vertraue auf mein Urteilsvermögen. `
 `Verzichte auf das Trinken." `
 `"Ich danke dir, wenn auch nur für das Gefühl, `
 `mein Freund. `
@@ -20,50 +20,50 @@
 `Verwässere es ein wenig. `
 `So kann Nanjo sein Gesicht wahren." `
 `"..........Sind Sie ganz sicher?" `
-`Nach einem Blick auf den Herrn, der den Alkohol verlangte, und den Hausarzt, der ihn verbot, `
-`ickte Genji der alte Butler schweigend und führte die Anweisungen seines Herrn gewissenhaft aus. `
-`Der Hausarzt Nanjo, stieß erneut einen tiefen Seufzer aus, als er beobachtete, wie sich der Butler am Schnapsschrank zu schaffen machte...  `
+`Nach einem Blick auf den Herrn, der den Alkohol verlangte, und auf den Hausarzt, der ihn verbot, `
+`nickte Genji der alte Butler schweigend und führte die Anweisungen seines Herrn gewissenhaft aus. `
+`Der Hausarzt Nanjo, seufzte wieder tief, als er sah, wie der Butler sich am Schnapsschrank zu schaffen machte...  `
 `Ein Geruch erfüllte den Raum. `
 `...Dieser süße, giftige Duft schien das Herz, wenn nicht sogar die Seele zu schmelzen. `
 `Es war der Geruch dieses giftigen grünen Getränks, von dem sich der Mann nicht trennen konnte. `
 `"......Nanjo, `
-`Du bist mein enger Freund, und wir kennen uns schon sehr lange.  `
+`Du bist mein guter Freund, und wir kennen uns schon sehr lange. `
 `Ich bin dir zutiefst dankbar für alles, was du getan hast, um mich so lange am Leben zu erhalten." `
 `"Ich habe nichts getan. `
-`......Schließlich hörst du ja nie auf meinen Rat als dein Arzt." `
+`......Du hast ja nie auf meinen Rat als dein Arzt gehört." `
 `"Hahahaha... `
-`Und du hörst nie zu, wenn ich dich vor einem falschen Schachzug warne, den du gerade machen willst. `
+`Und du hörst nie auf mich, wenn ich dich vor einem falschen Schachzug warne, den du gerade machen willst. `
 `Das ist doch nur fair, oder?" `
 `"......Herr." `
 `"Vielen Dank. `
 `......Ich würde nicht sterben, wenn mir deine Medizin ausgeht, aber ich würde sterben, wenn mir das hier ausgeht." `
-`Ohne auf Nanjo zu achten, der einen resignierten Gesichtsausdruck hatte, nahm Kinzo das Glas, das Genji ihm hinhielt. `
-`...Nur sehr wenige Menschen würden diese giftige Farbe mit einem alkoholischen Getränk in Verbindung bringen. `
+`Ohne auf Nanjo zu achten, der resigniert dreinblickte, nahm Kinzo das Glas, das Genji ihm hinhielt. `
+`...Kaum jemand würde diese giftige Farbe mit einem alkoholischen Getränk in Verbindung bringen.  `
 `".........Nanjo, `
 `Sei ehrlich zu mir. `
 `Wie viel Zeit habe ich noch?" `
 `"Nun gut... `
-`Wie kurz muss ich es machen, um dich zu überzeugen, die Flasche beiseite zu legen?" `
-`Nanjo stieß erneut einen Seufzer der Resignation aus. `
-`Dann sprach er endlich zu Kinzo, während dieser sein Glas schwenkte. `
-`"......Du hast nicht viel Zeit." `
+`Wie kurz muss ich es machen, damit du die Flasche weglegst?" `
+`Nanjo seufzte wieder resigniert. `
+`Dann wandte er sich endlich an Kinzo, der sein Glas schwenkte.  `
+`"......Du hast nicht mehr viel Zeit." `
 `"...Was genau meinst du damit?" `
 `"......Lass es uns mit dem Schachspiel hier veranschaulichen.  `
 `Du hast fast Schachmatt erreicht, aber du hast meinen König noch nicht in die Enge getrieben." `
-`Nanjos Blick war auf einen Beistelltisch gerichtet, auf dem ein massives Schachspiel stand. `
+`Nanjos Blick fiel auf einen Beistelltisch, auf dem ein massives Schachspiel stand. `
 `Nach der Stellung der Figuren zu urteilen, schien das Spiel in seine letzte Phase einzutreten. `
 `Turm und Läufer von Schwarz drangen tief in die gegnerischen Linien ein. `
-`Der weiße König war bereits in die Enge getrieben worden, so dass selbst ein Laie erkennen konnte, dass die Partie in Kürze zu Ende sein würde. `
-`Jedes Mal, wenn Nanjo kam, um eine medizinische Untersuchung durchzuführen, machten beide ein paar Züge. `
-`Nanjo deutete an, dass Kinzo höchstwahrscheinlich in seinen ewigen Schlaf fallen würde, bevor diese Partie beendet werden konnte. `
-`...Dies waren weniger die Worte eines Arztes als vielmehr die eines alten Freundes. `
-`"............Wärst du ein normaler Patient, `
-`würde ich dir empfehlen, an dieser Stelle ein Testament zu schreiben." `
+`Der weiße König war bereits in die Enge getrieben worden, so dass selbst ein Laie erkennen konnte, dass die Partie bald zu Ende sein würde. `
+`Jedes Mal, wenn Nanjo zur ärztlichen Untersuchung kam, machten die beiden ein paar Züge.  `
+`Nanjo deutete an, dass Kinzo höchstwahrscheinlich in den ewigen Schlaf fallen würde, bevor die Partie zu Ende war. `
+`...Das waren weniger die Worte eines Arztes als vielmehr die eines alten Freundes. `
+`"............Wenn du ein normaler Patient wärst, `
+`würde ich dir raten, an dieser Stelle ein Testament aufzusetzen." `
 `"......Und was ist ein Testament, Nanjo? `
-`Handschriftliche Anweisungen an die Geier, wie sie meinen Leichnam verschlingen und verstreuen sollen?" `
+`Handschriftliche Anweisungen an die Geier, wie sie meinen Leichnam fressen und zerstreuen sollen?" `
 `"Nein, ganz und gar nicht. `
 `......Es ist eine Möglichkeit, deinen Willen für spätere Generationen festzuhalten. `
-`Es ist weit mehr als nur ein Mittel, um dein Erbe aufzuteilen." `
+`Es ist viel mehr als nur ein Mittel, um dein Erbe aufzuteilen." `
 `"Hoh. `
 `......Und abgesehen von der Aufteilung des Erbes, worüber sollte ich schreiben?" `
 `"............Du könntest über dein Bedauern schreiben... `
@@ -199,7 +199,7 @@
 `Rudolf war auch nicht so groß, bis er in die Schule kam. `
 `Vielleicht werden Menschen größer, wenn ihr Wachstumsschub zu spät kommt." `
 `"Ne, das ist nichts Besonderes. `
-`A real man needs to be tough on the inside too!" `
+`Ein echter Mann muss auch innerlich stark sein!" `
 `"Exactly! `
 `Battler-kun here knows how it works! `
 `Real men win or lose based on what they've got on the inside! `
