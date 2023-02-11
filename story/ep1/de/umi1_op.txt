@@ -599,59 +599,59 @@
 `Unsere Gruppe blieb vor dem Eingang des Flugzeugs stehen. `
 `Mit einem Blick auf die Passagierliste drehte sich unser Reiseleiter um und begann zu sprechen. `
 `"Das Boarding wird nun beginnen. `
-`As I call out the names on the passenger list, `
-`please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row. `
-`I will now begin reading the passenger list. `
+`Während ich die Namen auf der Passagierliste aufrufe, `
+`Bitte nehmen Sie Ihre Plätze in der Reihenfolge ein, beginnend in der ersten Reihe auf der rechten Seite, von rechts nach links und dann in die nächste Reihe. `
+`Ich beginne nun mit der Verlesung der Liste der Passagiere des Fluges. `
 `Ushiromiya Hideyoshi-sama!" `
-`"Oh, I'm first! `
-`Right here! `
-`...By the way, do you have some candy, Eva? `
-`I've been lookin' all over for some, but I can't find any." `
+`"Oh, ich bin der Erste! `
+`Genau hier! `
+`...Übrigens, hast du ein paar Süßigkeiten, Eva? `
+`Ich habe sie überall gesucht. Ich kann sie nicht finden." `
 `"Ushiromiya Eva-sama." `
-`"They're in my handbag. `
-`I'll get one once we're inside the plane." `
-`I've heard that candies are a good way to protect your ears from hurting because of variations in atmospheric pressure when landing or taking off. `
-`That's probably what they're talking about. `
-`"...Hope I get a window seat!" `
-`"Hahaha, don't worry. `
-`There aren't any other kinds of seats." `
-`As George-aniki said, there were apparently only two lines of seats. `
-`So, this is what a small plane is like... `
-`......We {i:are} totally sure it's not gonna shake, right...? `
+`"Sie sind in meiner Handtasche. `
+`Wenn wir im Flugzeug sind, hole ich ein paar raus." `
+`Ich habe gehört, dass Bonbons ein gutes Mittel gegen Ohrenschmerzen sind, die durch Luftdruckschwankungen bei Landung verursacht werden. `
+`Wahrscheinlich ist es das, was sie meinen. `
+`"...Hoffentlich bekomme ich einen Fensterplatz!" `
+`"Hahaha, mach dir keine Sorgen `
+`Es gibt keine anderen Sitzgelegenheiten." `
+`Wie George-aniki bereits sagte, gab es offenbar nur zwei Sitzreihen. `
+`So sieht also ein kleines Flugzeug aus... `
+`...... Wir {i:sind} ganz sicher, dass es nicht wackelt, oder? `
 `"Ushiromiya George-sama." `
-`"Right here. `
-`Don't worry, Battler-kun. `
-`It won't shake too much." `
+`"Genau hier. `
+`Mach dir keine Sorgen, Battler-kun. `
+`Es wird nicht allzu sehr wackeln." `
 `"Ushiromiya Battler-sama." `
-`"A-Aniki, what do you mean "not too much"?! `
-`You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?! `
-`We all get our own parachutes in our seats, don't we? `
-`Wait, we don't?!" `
+`"A-Aniki, was meinst du mit "nicht zu viel"?! `
+`Wenn man von einem Boot fällt, kann man noch schwimmen, aber wenn ein Flugzeug abstürzt, ist man aufgeschmissen, oder? `
+`Wir haben alle Fallschirme in unseren Sitzen, oder? `
+`Moment, haben wir nicht nicht?" `
 `"Ushiromiya Rudolf-sama." `
-`"Come on, Battler, stop standing there slack-jawed and get in." `
+`"Komm schon, Battler, steh nicht mit offenem Mund da und steig ein." `
 `"Ow! Dad! `
-`Don't push me! `
-`We don't get parachutes!" `
+`Nicht schubsen! `
+`Wir bekommen keine Fallschirme!"`
 `"Ushiromiya Kyrie-sama." `
-`"Okay, you two, stop fooling around. `
-`Let's move on in." `
+`"Okay, ihr zwei, hört auf mit dem Blödsinn. `
+`Lass uns reingehen." `
 `"Ow! Kyrie! `
-`Don't push me! `
-`This blockhead isn't moving!" `
+`Nicht schubsen! `
+`Dieser Holzkopf bewegt sich nicht!" `
 `"Ushiromiya Maria-sama." `
 `"Uu-! `
-`Let's move on in!" `
+`Lasst uns reingehen!" `
 `"Ushiromiya Rosa-sama." `
 `"Maria! `
-`Be quiet..." `
-`"This is your pilot, Kawabata. `
-`We'd like to thank you for taking New Tokyo Aviation's Flight 201 today. `
-`We estimate that the flight to Niijima airport will take about 20 minutes. `
-`We are receiving reports of atmospheric turbulence. `
-`There may be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff." `
-`"A-Aniki, did that guy just say we needed to wear seatbelts?! `
-`In a jumbo jet, they let you undo them after takeoff, right?! `
-`So it's gonna shake so much we can't take them off?! `
-`Dammit, you tricked me! It is going to shake after all! `
-`Where are the parachutes?! `
-`I knew I should've taken the boooooaaaaat!!" `
+`Sei still..." `
+`"Hier ist Ihr Pilot, Kawabata. `
+`Vielen Dank, dass Sie heute mit New Tokyo Aviation Flug 201 geflogen sind. `
+`Die Flugzeit zum Flughafen Niijima beträgt nach unserer Schätzung ca. 20 Minuten.`
+`Wir erhalten Meldungen über atmosphärische Turbulenzen. `
+`Es kann zu Erschütterungen des Flugzeugs kommen, daher bitten wir Sie, Ihre Sicherheitsgurte nach dem Start nicht zu lösen." `
+`"A-Aniki, hat der Typ gerade gesagt, dass wir uns anschnallen sollen?! `
+`Wenn man in einem Jumbo-Jet sitzt, kann man sie doch nach dem Start abnehmen, oder? `
+`Es wird also so stark wackeln, dass wir es nicht abnehmen können? `
+`Verdammt, du hast mich reingelegt! Jetzt wackelt es doch! `
+`Wo sind die Fallschirme?! `
+`Ich wusste, ich hätte das Booooooooot nehmen sollen!!" `
