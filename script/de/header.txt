@@ -7,8 +7,8 @@ if %CHIRU_MODE == 1 caption "Umineko When They Cry Chiru ~Nocturne der Wahrheit 
 
 ;--Textboxes--
 
-if %CHIRU_MODE == 0 stralias msgwnd,":a;graphics\system\wnd\msgwnd_en.png"
-if %CHIRU_MODE == 1 stralias msgwnd,":a;graphics\system\wnd\msgwnd_ep5_en.png"
+if %CHIRU_MODE == 0 stralias msgwnd,":a;graphics\system\wnd\msgwnd_de.png"
+if %CHIRU_MODE == 1 stralias msgwnd,":a;graphics\system\wnd\msgwnd_ep5_de.png"
 stralias msgwnd2,":a;graphics\system\wnd\msgwnd2.png"
 stralias msgwnd3,":a;graphics\system\wnd\msgwnd3.png"
 stralias msgwnd4,":a;graphics\system\wnd\msgwnd4.png"
