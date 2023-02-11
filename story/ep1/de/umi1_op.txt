@@ -554,11 +554,11 @@
 `Uu-uu-!!" `
 `We horsed around for a while to make up for the six year gap in our friendship. `
 `She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again. `
-`But I'm surprised. `
-`She's just the way I remembered her being six years ago. `
-`Seems that people just don't change that much after all. `
-`I'm a bit happy that she's still the pure, innocent girl I remember. `
-`Her name is written {p:0:真里亞}. `
+`Aber ich wundere mich. `
+`Sie ist genau so, wie ich sie vor sechs Jahren in Erinnerung hatte. `
+`Es scheint, dass sich die Menschen doch nicht so sehr ändern. `
+`Ich bin ein bisschen froh, dass sie immer noch das reine, unschuldige Mädchen ist, das ich in Erinnerung habe. `
+`Ihr Name wird {p:0:真里亞} geschrieben. `
 `...Of course, `
 `{p:0:真里亞} is pronounced "Maria". `
 `The third character looks like a cross, which is pretty cool. `
