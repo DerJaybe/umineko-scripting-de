@@ -567,7 +567,7 @@
 `Und dann ist da noch Marias Mutter, Tante Rosa. `
 `Sie ist die jüngere Schwester meines Vaters. `
 `Rosa wird {p:0:楼座} geschrieben. `
-`... Hier ist ein Name, der ganz und gar nicht japanisch ist. `
+`...Hier ist ein Name, der ganz und gar nicht japanisch ist. `
 `Tut mir leid, das zu sagen, aber ihr Name ist fast so lächerlich wie der von Dad... `
 `Ich muss ihr Respekt zollen: Sie ist nicht so verkorkst wie er. `
 `Alle Namen in meiner Familie klingen fremd, wenn ich so darüber nachdenke. `
@@ -579,7 +579,7 @@
 `aber obwohl sie ihr Blut teilt, ist Tante Rosa ganz und gar nicht so. `
 `Von allen Geschwistern hat sie den meisten gesunden Menschenverstand. `
 `Wie Onkel Hideyoshi ist sie eine nette Tante, die den Kindern immer zur Seite steht. `
-`...... Vielleicht, weil sie eine strengere Mutter ist, ist sie beim Taschengeld nicht so großzügig wie Onkel Hideyoshi. `
+`......Vielleicht, weil sie eine strengere Mutter ist, ist sie beim Taschengeld nicht so großzügig wie Onkel Hideyoshi. `
 `Okay. `
 `Jetzt haben wir die ganze Gruppe der Familienmitglieder, die an Bord des Flugzeugs gehen werden. `
 `In diesem Moment ertönte eine Durchsage in der Lobby, als hätte sie auf unsere Ankunft gewartet. `
@@ -604,7 +604,7 @@
 `Ich beginne nun mit der Verlesung der Liste der Passagiere des Fluges. `
 `Ushiromiya Hideyoshi-sama!" `
 `"Oh, ich bin der Erste! `
-`Genau hier! `
+`Hier! `
 `...Übrigens, hast du ein paar Süßigkeiten, Eva? `
 `Ich habe sie überall gesucht. Ich kann sie nicht finden." `
 `"Ushiromiya Eva-sama." `
@@ -619,14 +619,14 @@
 `So sieht also ein kleines Flugzeug aus... `
 `...... Wir {i:sind} ganz sicher, dass es nicht wackelt, oder? `
 `"Ushiromiya George-sama." `
-`"Genau hier. `
+`"Hier. `
 `Mach dir keine Sorgen, Battler-kun. `
-`Es wird nicht allzu sehr wackeln." `
+`Es wird nicht allzu sehr schaukeln." `
 `"Ushiromiya Battler-sama." `
 `"A-Aniki, was meinst du mit "nicht zu viel"?! `
 `Wenn man von einem Boot fällt, kann man noch schwimmen, aber wenn ein Flugzeug abstürzt, ist man aufgeschmissen, oder? `
 `Wir haben alle Fallschirme in unseren Sitzen, oder? `
-`Moment, haben wir nicht nicht?" `
+`Moment, haben wir nicht?" `
 `"Ushiromiya Rudolf-sama." `
 `"Komm schon, Battler, steh nicht mit offenem Mund da und steig ein." `
 `"Ow! Dad! `
@@ -651,7 +651,7 @@
 `Es kann zu Erschütterungen des Flugzeugs kommen, daher bitten wir Sie, Ihre Sicherheitsgurte nach dem Start nicht zu lösen." `
 `"A-Aniki, hat der Typ gerade gesagt, dass wir uns anschnallen sollen?! `
 `Wenn man in einem Jumbo-Jet sitzt, kann man sie doch nach dem Start abnehmen, oder? `
-`Es wird also so stark wackeln, dass wir es nicht abnehmen können? `
-`Verdammt, du hast mich reingelegt! Jetzt wackelt es doch! `
+`Es wird also so stark schaukeln, dass wir es nicht abnehmen können? `
+`Verdammt, du hast mich reingelegt! Jetzt schaukelt es doch! `
 `Wo sind die Fallschirme?! `
 `Ich wusste, ich hätte das Booooooooot nehmen sollen!!" `
