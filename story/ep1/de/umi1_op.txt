@@ -19,7 +19,7 @@
 `noch ein Glas. `
 `Verwässere es ein wenig. `
 `So kann Nanjo sein Gesicht wahren." `
-`"..........Sind Sie ganz sicher?" `
+`"..........Seid Ihr Euch ganz sicher?" `
 `Nach einem Blick auf den Herrn, der den Alkohol verlangte, und auf den Hausarzt, der ihn verbot, `
 `nickte Genji der alte Butler schweigend und führte die Anweisungen seines Herrn gewissenhaft aus. `
 `Der Hausarzt Nanjo, seufzte wieder tief, als er sah, wie der Butler sich am Schnapsschrank zu schaffen machte...  `
@@ -207,123 +207,123 @@
 `Man muss auf den riiiichtigen Moment warten... und zuschlagen! `
 `Ich hätte mir nie träumen lassen, dass ich einmal der Unternehmer sein würde, der ich heute bin, Herr über mein eigenes Gebiet... `
 `Wenn ich daran denke, wie weit ich gekommen bin, nachdem ich mittellos und ruiniert angefangen habe...!" `
-`This stout, plump, old guy is `
-`George-aniki's dad, Uncle Hideyoshi ({p:0:秀吉}). `
-`He's the husband of Dad's older sister. `
-`In other words, we're not blood-related. `
-`He's nice to children, sociable all the time, and even quick to give out some spending money to us kids. Simply put, he's an awesome uncle. `
-`He speaks in an odd and very noticeable Kansai dialect, but he's actually a natural-born Kanto man. `
-`Apparently, impressions are everything in the business world, `
-`so speaking in a different style than other people is an act that makes him stick out more. `
-`......However, I hear he gets embarrassed when talking within earshot of a real Kansai person, so he switches back to standard Japanese. `
-`...I don't really get it, but he's definitely an interesting person. `
-`"If only you weren't so quick to brag about your life story. `
-`That's enough for now, I think. `
-`I'm sure Battler's getting tired of it. `
-`Aren't you?" `
-`"Nope, not at all, hihihi! `
-`Nothing wrong with that. `
-`I think it's pretty cool for a man to have some stories he can brag about. `
-`I don't have anything like that at all." `
-`"Oh, really? `
-`I'd imagine a man with your looks would leave girls crying left and right. I can't believe you have nothing at all to brag about. `
+`Dieser stämmige, pummelige, alte Mann ist `
+`George-anikis Vater, Onkel Hideyoshi ({p:0:秀吉}). `
+`Er ist der Ehemann von Dads älterer Schwester. `
+`Mit anderen Worten: Wir sind nicht blutsverwandt. `
+`Er ist nett zu Kindern, immer gesellig und gibt uns Kids sogar etwas Taschengeld. Kurz gesagt: Er ist ein toller Onkel. `
+`Er spricht in einem merkwürdigen und sehr auffälligen Kansai-Dialekt, aber eigentlich ist er ein gebürtiger Kanto-Mann. `
+`Offensichtlich sind Eindrücke in der Geschäftswelt alles, `
+`Er spricht also in einem anderen Stil als andere Menschen, was ihn noch auffälliger macht. `
+`......Ich habe aber gehört, dass es ihm peinlich ist, wenn er in Hörweite einer echten Kansai-Person spricht, also wechselt er wieder zum Standardjapanisch. `
+`...Ich verstehe es nicht wirklich, aber er ist definitiv eine interessante Person. `
+`"Wenn du nur nicht so schnell mit deiner Lebensgeschichte angeben würdest. `
+`Das reicht fürs Erste, denke ich. `
+`Ich bin mir sicher, dass Battler es langsam satt hat. `
+`Nicht wahr?" `
+`"Nope, nicht wirklich, hihihi! `
+`Ich hab da kein Problem mit. `
+`Ich finde es ziemlich cool, wenn ein Kerl ein paar Geschichten hat, mit denen er prahlen kann. `
+`So etwas habe ich überhaupt nicht." `
+`"Oh, wirklich? `
+`Ich könnte mir vorstellen, dass ein Kerl mit deinem Aussehen die Mädchen reihenweise zum Weinen bringt. Ich kann nicht glauben, dass du überhaupt nichts hast, womit du angeben kannst. `
 `"Nonononono! `
-`Y-Y- `
-`You're joking, right?! `
-`Of course nothing weird like that's ever happened to me! `
-`In fact, if you know anyone, I'm all ears!" `
-`"Come on, you aren't fooling anyone. `
-`...*giggle* You must tell your aunt all about it later. `
-`After all, nothing of the sort ever happens to George. `
+`D-D- `
+`Du scherzt, oder?! `
+`Natürlich ist mir so etwas noch nie passiert! `
+`Falls du jemanden kennst, bin ich ganz Ohr!" `
+`"Komm schon, du machst niemandem etwas vor. `
+`...*kicher* Du musst deiner Tante später alles darüber erzählen. `
+`Schließlich passiert George so etwas nie. `
 `Heheheh..." `
-`This is George-aniki's mother, Aunt Eva ({p:0:絵羽}). `
-`She's my Dad's older sister. `
-`She and Uncle Hideyoshi are a pair of jokers, and they've always teased me, back as far as I can remember. `
-`This sometimes made them a bit hard to get along with when I was small. `
-`...Well, I guess the events of the last 30 seconds prove that they can still be hard to get along with. `
-`Even so, George-aniki's family is interesting and fun, and they seem to get along just fine. `
-`......Sheesh, that's pretty much the total opposite of my family. `
+`Das ist George-anikis Mutter, Tante Eva ({p:0:絵羽}). `
+`Sie ist die ältere Schwester meines Dads. `
+`Sie und Onkel Hideyoshi sind zwei Spassvögel und haben mich schon immer aufgezogen, so lange ich mich erinnern kann. `
+`Das machte es manchmal etwas schwierig, mit ihnen auszukommen, als ich noch klein war. `
+`...Nun, ich denke, die Ereignisse der letzten 30 Sekunden beweisen, dass es immer noch schwierig sein kann, mit ihnen auszukommen. `
+`Trotzdem ist George-anikis Familie interessant und lustig, und sie scheinen gut miteinander auszukommen. `
+`......Sheesh, Das ist so ziemlich das genaue Gegenteil von meiner Familie. `
 `"Battler-kun, `
-`have you seen Rudolf-san?" `
+`Hast du Rudolf-san gesehen?" `
 `"Huh? `
-`He headed off to the bathroom a while ago. `
-`Is he not back yet? `
-`Heh, maybe the poor geezer dropped dead, {c:86EF9C:namunamunamu}." `
-`"That's no way to talk about your own father. `
-`Still, this isn't the first time he's taken so long in the bathroom." `
-`"Yeah, the guy's always been that way. `
-`Does he really have to take a magazine with him every time he needs to take a dump? `
-`And what on Earth's he doing in there with those particular magazines?! `
+`Er hat sich vor einer Weile auf den Weg ins Bad gemacht. `
+`Ist er noch nicht zurück? `
+`Heh, vielleicht ist der arme Knacker tot umgefallen, {c:86EF9C:namunamunamu}." `
+`"So redet man nicht über seinen eigenen Vater. `
+`Aber es ist nicht das erste Mal, dass er so lange im Bad braucht." `
+`"Ja, der Kerl war schon immer so. `
+`Muss er wirklich jedes Mal eine Zeitschrift mitnehmen, wenn er kacken muss? `
+`Und was um alles in der Welt macht er da drin mit diesen speziellen Magazinen?! `
 `Ihihi!" `
-`"Oh, you don't need to worry about that at all. `
-`Since we've been together, I haven't let him do that on his own." `
+`"Oh, darüber musst du dir überhaupt keine Sorgen machen. `
+`Seit wir zusammen sind, habe ich ihn das nicht mehr alleine machen lassen." `
 `"Hihihi! `
-`Oooh, I'll have to get the juicy details later! `
-`Sounds like Dad's got his balls in an iron grip." `
-`"You know exactly what would happen with that man if I didn't keep a tight grip, don't you?" `
-`"No kidding. `
-`You're the only one capable of reigning in that old bastard. `
-`As his son, I'm more than happy to let you take over." `
-`"Yes, leave it all to me. `
-`After all, that's my specialty." `
-`This woman is my father's wife. `
-`Her name is Ushiromiya Kyrie ({p:0:霧江}). `
-`As you can probably tell from our conversation, she's not my real mother. `
-`She's basically my stepmother. `
-`My real mom died six years ago. `
-`Kyrie-san is the woman Dad married afterwards. `
-`It's understandable for someone my age. `
-`I could never bring myself to call his new wife "Mom". `
-`And I doubt she feels like using the word "son" on this massive kid who's no relation to her at all. `
-`We aren't little kids. `
-`We know there's nothing to be gained by fighting. `
-`So, we decided that we wouldn't force ourselves to pretend that we were family. `
-`I've decided to act a bit more frank with her, acting as though she's a friendly neighbor instead. `
-`It's much easier if we just keep a little distance, instead of forcing ourselves to act all close and making each other uncomfortable. `
-`Kyrie-san has always been very open about all this, and thanks to that, we've been able to get along pretty well. `
-`Then, just when we were badmouthing Dad about being in the bathroom, `
-`the man himself came back, wiping his hands with a handkerchief. `
+`Oooh, Die pikanten Details muss ich später erfahren! `
+`Hört sich an, als hätte Vater seine Eier in einem eisernen Griff." `
+`"Du weißt genau, was mit diesem Mann passieren würde, wenn ich ihn nicht fest im Griff hätte, oder?" `
+`"Ohne Witz. `
+`Du bist die Einzige, die diesen alten Bastard bändigen kann. `
+`Als sein Sohn bin ich mehr als glücklich, dass du das übernehmen kannst." `
+`"Ja, überlass das alles mir. `
+`Schließlich ist das meine Spezialität." `
+`Diese Frau ist die Ehefrau meines Vaters. `
+`Ihr Name ist Ushiromiya Kyrie ({p:0:霧江}). `
+`Sie ist nicht meine richtige Mutter, wie du wahrscheinlich aus unserem Gespräch schließen kannst. `
+`Sie ist quasi meine Stiefmutter. `
+`Meine richtige Mutter starb vor sechs Jahren. `
+`Kyrie-san ist die Frau, die Dad danach geheiratet hat. `
+`Für jemanden in meinem Alter ist das verständlich. `
+`Ich konnte mich nie dazu durchringen, seine neue Frau "Mama" zu nennen.. `
+`Und ich bezweifle, dass sie das Wort "Sohn" für dieses riesige Kind benutzen will, das überhaupt nicht mit ihr verwandt ist. `
+`Wir sind keine kleinen Kinder. `
+`Wir wissen, dass es nichts bringt, zu kämpfen. `
+`Also beschlossen wir, dass wir uns nicht zwingen würden, so zu tun, als wären wir eine Familie. `
+`Ich habe beschlossen, ein bisschen offener mit ihr umzugehen und so zu tun, als wäre sie eine freundliche Nachbarin. `
+`Es ist viel einfacher, wenn wir einfach ein bisschen Abstand halten, anstatt uns zu zwingen, einander so nah zu sein und uns unwohl zu fühlen. `
+`Kyrie-san war immer sehr offen, was das angeht, und deshalb sind wir gut miteinander ausgekommen. `
+`Dann, als wir gerade über Dad lästerten, weil er auf der Toilette war, `
+`kam der Mann selbst zurück und trocknete sich die Hände mit einem Taschentuch ab. `
 `"Hmm? `
 `Battler." `
-`"Hey, what's up, Dad? `
+`"Hey, was geht, Dad? `
 `...Owowowowww! `
-`Don't pinch my ear, gaah!" `
-`"So, you've been talking trash about me with Mom again, haven't you? `
-`What makes it so hard to show a little respect for your father, hmm?" `
+`Kneif mir nicht ins Ohr, gaah!" `
+`"Du hast also wieder mit Mama Scheiße über mich gelabert, stimmt's? `
+`Warum ist es so schwer, deinem Vater gegenüber ein bisschen Respekt zu zeigen, hmm?" `
 `"Owowow, owowowowow! `
-`Dammit, that hurts! `
-`You can stretch my ear all you want, but I'm not gonna be able to fly. That hurts!!" `
-`"C'mon now. `
-`Up, `
-`up, `
-`down, `
-`down, `
-`left, `
-`right, `
-`left, `
-`right. `
-`Now say "Father, please forgive me for being so rude"." `
-`"Like hell I will! Go find yourself some members-only store if you want it that much! `
-`Gyaah, let goooo!!" `
-`......This old bastard is my Dad. `
-`I think I'm pretty tall myself, but Dad's just about as tall as I am. `
-`It's no surprise Aunt Eva started talking about Dad's blood when she saw my height. `
-`By the way, my height isn't the only thing I got from him. `
-`It seems having weird names runs in the family. `
-`Dad's full name is written {p:0:右代宮 留弗夫}. `
-`......You can't read it, can you? `
-`Come on, it's just {p:0:留弗夫}. `
-`Anyway, this guy's name is pronounced "Rudolf". `
-`Haha... He must hate Grandfather for giving him that name. `
-`Still, that's no reason to pass that weird naming tradition onto me. `
-`As the old bastard twisted my ear all over the place, Aunt Eva snuck up behind him and grabbed his ear. `
+`Verdammt, das tut weh! `
+`Du kannst mein Ohr langziehen, so viel du willst, aber ich werde nicht fliegen können. Das tut weh!!" `
+`"Komm schon. `
+`Hoch, `
+`hoch, `
+`runter, `
+`runter, `
+`links, `
+`rechts, `
+`links, `
+`rechts. `
+`Sag jetzt: "Vater, bitte vergib mir, dass ich so unverschämt war"." `
+`"Nen scheiß mach ich! Such dir einen Laden, der nur für Mitglieder zugänglich ist, wenn du es so sehr willst! `
+`Gyaah, lass looooos!!" `
+`......Dieser alte Bastard ist mein Vater. `
+`Ich glaube, ich bin auch ziemlich groß, aber Dad ist fast genauso groß wie ich. `
+`Es ist keine Überraschung, dass Tante Eva anfing, über Dads Blut zu reden, als sie meine Größe sah. `
+`Übrigens ist meine Größe nicht das Einzige, was ich von ihm habe. `
+`Es scheint, als läge es in der Familie, seltsame Namen zu haben. `
+`Dads voller Name wird {p:0:右代宮 留弗夫} geschrieben. `
+`......Du kannst es nicht lesen, oder? `
+`Komm schon, es ist nur {p:0:留弗夫}. `
+`Jedenfalls wird der Name dieses Mannes "Rudolf" ausgesprochen. `
+`Haha... Er muss Großvater dafür hassen, dass er ihm diesen Namen gegeben hat. `
+`Trotzdem ist das kein Grund, diese seltsame Namenstradition auf mich zu übertragen. `
+`Während der alte Bastard mein Ohr überall hindrehte, schlich sich Tante Eva hinter ihn und packte sein Ohr. `
 `"Hey, Rudolf. `
-`You should know better than to physically abuse your son." `
-`"Gyaah, that hurts, Aneki..." `
-`This scene perfectly illustrated the relationship between the prankster younger brother...and the older sister who could deal out punishment to him despite his size. `
-`"I think that's good enough for now, Eva nee-san. `
-`I'll make sure to stretch out his other ear later on." `
-`"Oh, my apologies. `
+`Du solltest es besser wissen, als deinen Sohn körperlich zu misshandeln." `
+`"Gyaah, das tut weh, Aneki..." `
+`Diese Szene veranschaulicht perfekt die Beziehung zwischen dem schelmischen jüngeren Bruder ... und der älteren Schwester, die ihn trotz seiner Größe bestrafen konnte. `
+`"Ich denke, das reicht fürs erste, Eva nee-san. `
+`Ich werde dafür sorgen, dass er später sein anderes Ohr ausstreckt." `
+`"Oh, ich bitte um Verzeihung. `
 `I must leave some pulling for you to do, Kyrie-san. `
 `Rudolf? `
 `Make sure Kyrie-san gives you lots and lots of punishment later on, okay?" `
