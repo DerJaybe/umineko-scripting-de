@@ -54,7 +54,7 @@
 `Nach der Stellung der Figuren zu urteilen, schien das Spiel in seine letzte Phase einzutreten. `
 `Turm und Läufer von Schwarz drangen tief in die gegnerischen Linien ein. `
 `Der weiße König war bereits in die Enge getrieben worden, so dass selbst ein Laie erkennen konnte, dass die Partie bald zu Ende sein würde. `
-`Jedes Mal, wenn Nanjo zur ärztlichen Untersuchung kam, machten die beiden ein paar Züge.  `
+`Jedes Mal, wenn Nanjo zur ärztlichen Untersuchung kam, machten die beiden ein paar Züge. `
 `Nanjo deutete an, dass Kinzo höchstwahrscheinlich in den ewigen Schlaf fallen würde, bevor die Partie zu Ende war. `
 `...Das waren weniger die Worte eines Arztes als vielmehr die eines alten Freundes. `
 `"............Wenn du ein normaler Patient wärst, `
@@ -69,7 +69,7 @@
 `"............Du könntest über dein Bedauern schreiben... `
 `oder über Angelegenheiten, die du unerledigt gelassen hast. `
 `Dinge, die du an andere weitergeben möchtest... `
-`...oder einfach Dinge, die du mitteilen möchtest.  `
+`...oder einfach Dinge, die du mitteilen möchtest. `
 `......Alles, was du willst." `
 `"...Hmph. `
 `.........Dinge, die ich an andere weitergeben möchte oder Angelegenheiten, die ich mitteilen möchte? `
@@ -133,10 +133,10 @@
 `Die Dinge verändern sich wirklich mit der Zeit... `
 `Ich kann nicht glauben, dass wir diese Strecke in nur zwanzig Minuten schaffen werden..." `
 `Ich konnte nicht anders, als mich am Kopf zu kratzen und zu staunen, wie weit sich die Dinge in den letzten Jahren entwickelt haben. `
-`Früher sind wir mit dem Boot gefahren.  `
+`Früher sind wir mit dem Boot gefahren. `
 `Damals mussten wir alle fast einen halben Tag lang über das Meer schaukeln, bevor wir Niijima erreichten. `
 `Heutzutage ist alles so viel bequemer geworden. `
-`Trotzdem war ich noch nie in einem so kleinen Flugzeug.  `
+`Trotzdem war ich noch nie in einem so kleinen Flugzeug. `
 `Ich bin schon in einem riesigen Jumbojet geflogen, aber das ist meine erste Reise in einem so kleinen Flugzeug. `
 `...Es wird schaukeln, oder?... `
 `Man sagt, dass kleinere Boote mehr schaukeln als große, also denke ich, dass die gleiche Regel auch für Flugzeuge gilt. `
@@ -147,12 +147,12 @@
 `Heheh, erschrecke mich nicht so... Du hast mir gerade drei Jahre meines Lebens geraubt. `
 `Aber was hat denn das schaukeln mit der Sache zu tun? `
 `Ihihihi, du glaubst doch nicht, dass ich Angst habe, dass das Flugzeug schaukelt oder vom Himmel fällt, oder?" `
-`"Oh, natürlich nicht, mein Fehler.  `
+`"Oh, natürlich nicht, mein Fehler. `
 `Ich sehe, du hast dich sehr verändert, seit wir dich das letzte Mal gesehen haben. `
 `Immerhin ist das schon sechs Jahre her. `
 `Du bist kein Kind mehr. `
 `Hahahahaha." `
-`"Sheesh, und du bist alt genug, um zu rauchen und zu trinken.  `
+`"Sheesh, und du bist alt genug, um zu rauchen und zu trinken. `
 `Ich habe kein Interesse am Rauchen, aber ich wollte schon immer mal einen Schnaps probieren, heheheh! `
 `Nun, wenn du die Gene deines Vaters hast, kannst du sicher auch beim Trinken mithalten, oder?" `
 `"Nun, ich trinke normalerweise eher aus geschäftlichen Gründen als zum Vergnügen. `
@@ -174,15 +174,15 @@
 `...Das ist alles so peinlich... Ich wünschte, sie würden mich in Ruhe lassen. `
 `Wie auch immer, mein Name "Battler"... `
 `...nun, das ist verdammt seltsam, findest du nicht? `
-`Ich frage mich, was sich meine Eltern gedacht haben, als sie mich so nannten.  `
-`Ich habe noch nie jemanden getroffen, der es beim ersten Mal richtig lesen konnte.  `
+`Ich frage mich, was sich meine Eltern gedacht haben, als sie mich so nannten. `
+`Ich habe noch nie jemanden getroffen, der es beim ersten Mal richtig lesen konnte. `
 `Normalerweise nennt man mich "{c:86EF9C:Sento‐kun}". `
 `Tut mir leid, aber das ist nicht mal annähernd richtig. `
 `Mein Name wird {p:0:右代宮 戦人} geschrieben. `
 `Kannst du es lesen? `
 `Der erste Teil ist mein Familienname, "Ushiromiya". `
 `Das ist eine ziemlich plausible japanische Aussprache. `
-`Das Problem ist mein Vorname.  `
+`Das Problem ist mein Vorname. `
 `.........{p:0:戦人} setzt sich aus den Zeichen für "Kampf" und "Person" zusammen und wird "Battler" ausgesprochen. `
 `Nimm alles zusammen und du bekommst Ushiromiya Battler. `
 `Ziemlich verrückt, oder? `
@@ -380,7 +380,7 @@
 `Das "Wettercheck"-Schild klebte noch immer neben den Abflugzeiten für den Flug, den wir besteigen sollten. `
 `Laut Aniki sind kleinere Flugzeuge den Winden und anderen Wettereinflüssen stärker ausgesetzt `
 `und es ist gar nicht so ungewöhnlich, dass sich Flüge deswegen verspäten. `
-`...Moment mal, wir {i:sind} doch ganz sicher, dass es nicht wackeln wird, ...oder...? `
+`...Moment mal, wir {i:sind} doch ganz sicher, dass es nicht schaukeln wird, ...oder...? `
 `Von hier unten sieht es nur bewölkt aus und nicht windig. `
 `...Ich schätze, dort, wo die Flugzeuge fliegen, ist das anders. `
 `"Das Wetter ist heute ein bisschen ungewiss." `
@@ -645,7 +645,7 @@
 `"Maria! `
 `Sei still..." `
 `"Hier ist Ihr Pilot, Kawabata. `
-`Vielen Dank, dass Sie heute mit New Tokyo Aviation Flug 201 geflogen sind. `
+`Wir möchten Ihnen dafür danken, dass Sie heute den Flug 201 von New Tokyo Aviation gebucht haben. `
 `Die Flugzeit zum Flughafen Niijima beträgt nach unserer Schätzung ca. 20 Minuten.`
 `Wir erhalten Meldungen über atmosphärische Turbulenzen. `
 `Es kann zu Erschütterungen des Flugzeugs kommen, daher bitten wir Sie, Ihre Sicherheitsgurte nach dem Start nicht zu lösen." `
