@@ -435,7 +435,7 @@
 `Ich würde mich gerne zurücklehnen, cool sein und das ganze Geld einfach fließen lassen, aber sowas wird niemals passieren. `
 `...Als Aniki so alt war wie ich, hatte er sich schon ein beeindruckendes Ziel gesetzt und angefangen, dafür zu studieren, also kann ich das wohl überhaupt nicht vergleichen. `
 `Mein Vater sagt nur: "Klar kannst du in meinem Unternehmen lernen, wenn du gerne Klos putzt.". `
-`Verdammt, ich will nicht in der Schuld von diesem alten Bastards stehen und dort arbeiten!`
+`Verdammt, ich will nicht in der Schuld von diesem alten Bastards stehen und dort arbeiten! `
 `Ich werde schon selber etwas finden! `
 `.........Wäre Willenskraft nur alles, um ein Erwachsener zu werden. `
 `Soll ich mich auf eine dieser Selbstfindungsreisen begeben, die heutzutage in Mode sind? `
@@ -533,7 +533,7 @@
 `......Uu-." `
 `"Ja genau. `
 `jetzt hast du es verstanden." `
-`Dieser Teil von Aniki, ist der mich dazu bringt zu ihm aufzuschauen. `
+`Dieser Teil von Aniki, ist der der mich dazu bringt zu ihm aufzuschauen. `
 `Für Jemanden der nicht einmal verheiratet ist, kann er wirklich gut mit Kindern umgehen. `
 `Ich bin mir sicher, dass er in der Zukunft einen tollen Vater abgeben wird. `
 `"...Battler onii-chan?" `
