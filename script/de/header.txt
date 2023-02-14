@@ -2,7 +2,7 @@ language english
 
 ; Game window caption
 
-if %CHIRU_MODE == 0 caption "Umineko When They Cry ~Rondo der Hexe und der Logik~ (" + $CHIRU_MODE + ")"
+if %CHIRU_MODE == 0 caption "Umineko When They Cry ~Rondo der Hexe und der Vernunft~ (" + $CHIRU_MODE + ")"
 if %CHIRU_MODE == 1 caption "Umineko When They Cry Chiru ~Nocturne der Wahrheit und der Illusionen~ (" + $CHIRU_MODE + ")"
 
 ;--Textboxes--
