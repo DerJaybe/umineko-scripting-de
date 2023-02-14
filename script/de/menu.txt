@@ -1942,23 +1942,23 @@ stralias ep8_9_page_6_2_t,":s;#FFFFFF`{p:3:Battler: “The three of us were toge
 ; trophies
 
 stralias trophy_text_locked,"{p:18:Erfolg ist gesperrt}"
-stralias trophy_text_new,":s;#FFFFFF`{p:11:Eine neue Trophäe ist unter "Erfolge" im Hauptmenü verfügbar!}`"
+stralias trophy_text_new,":s;#FFFFFF`{p:11:Eine neue Trophäe ist unter 'Erfolge' im Hauptmenü verfügbar!}`"
 numalias trophy_text_x,537
 numalias trophy_text_y,680
 
 stralias trophy_text_00,"{p:18:Platin Trophäe{n}Hexenjäger{n}Sammle alle anderen Trophäen.}"
 stralias trophy_text_01,"{p:18:Bronze Trophäe{n}Willkommen auf Rokkenjima{n}Ankunft auf der Insel Rokkenjima.}"
 stralias trophy_text_02,"{p:18:Bronze Trophäe{n}Episode 1 Tipps Jäger{n}Durchsuche alle Tipps zu Episode 1.}"
-stralias trophy_text_03,"{p:18:Bronze Trophäe{n}Episode 1 Characters Hunter{n}Browse all the Episode 1 characters.}"
+stralias trophy_text_03,"{p:18:Bronze Trophäe{n}Episode 1 Charaktere Jäger{n}Sieh dir alle Episode 1 Charaktere an.}"
 stralias trophy_text_04,"{p:18:Bronze Trophäe{n}Episode 2 Tips Hunter{n}Browse all the Episode 2 tips.}"
 stralias trophy_text_05,"{p:18:Bronze Trophäe{n}Episode 2 Characters Hunter{n}Browse all the Episode 2 characters.}"
 stralias trophy_text_06,"{p:18:Bronze Trophäe{n}Episode 3 Tips Hunter{n}Browse all the Episode 3 tips.}"
 stralias trophy_text_07,"{p:18:Bronze Trophäe{n}Episode 3 Characters Hunter{n}Browse all the Episode 3 characters.}"
 stralias trophy_text_08,"{p:18:Bronze Trophäe{n}Episode 4 Tips Hunter{n}Browse all the Episode 4 tips.}"
 stralias trophy_text_09,"{p:18:Bronze Trophäe{n}Episode 4 Characters Hunter{n}Browse all the Episode 4 characters.}"
-stralias trophy_text_10,"{p:18:Bronze Trophäe{n}Options Changer{n}Change the settings in Config.}"
+stralias trophy_text_10,"{p:18:Bronze Trophäe{n}Handwerker{n}Ändere Einstellungen im Optionsmenü.}"
 stralias trophy_text_11,"{p:18:Silber Trophäe{n}Episode 1 Tee Party{n}Lies bis zum Ende der Teeparty in Episode 1.}"
-stralias trophy_text_12,"{p:18:Silber Trophäe{n}Episode 1 Versteckte Tee Party{n}Lies bis zum Ende der versteckten Teeparty in Episode 1 (‘????’).}"
+stralias trophy_text_12,"{p:18:Silber Trophäe{n}Episode 1 Versteckte Tee Party{n}Lies bis zum Ende der versteckten Tee Party in Episode 1 (‘????’).}"
 stralias trophy_text_13,"{p:18:Silber Trophäe{n}Episode 2 Tea Party{n}Read to the end of the Episode 2 tea party.}"
 stralias trophy_text_14,"{p:18:Silber Trophäe{n}Episode 2 Hidden Tea Party{n}Read to the end of the Episode 2 hidden tea party (‘????’).}"
 stralias trophy_text_15,"{p:18:Silber Trophäe{n}Episode 3 Tea Party{n}Read to the end of the Episode 3 tea party.}"
@@ -1966,7 +1966,7 @@ stralias trophy_text_16,"{p:18:Silber Trophäe{n}Episode 3 Hidden Tea Party{n}Re
 stralias trophy_text_17,"{p:18:Silber Trophäe{n}Episode 4 Tea Party{n}Read to the end of the Episode 4 tea party.}"
 stralias trophy_text_18,"{p:18:Silber Trophäe{n}Episode 4 Hidden Tea Party{n}Read to the end of the Episode 4 hidden tea party (‘????’).}"
 stralias trophy_text_19,"{p:18:Silber Trophäe{n}Eine gewisse Anhäufung von Macht{n}Mehr als 50 Stunden Spielzeit.{n}Aber das ist weit entfernt von 157.680 Stunden.}"
-stralias trophy_text_20,"{p:18:Silber Trophäe{n}So oft kannst du gar nicht geklickt haben{n}Klicke in die Textbox 30.000 mal,{n}das würde ich Kinzo-san zutrauen}"
+stralias trophy_text_20,"{p:18:Silber Trophäe{n}So oft kannst du gar nicht geklickt haben{n}Klicke in die Textbox 30.000 mal.{n}Spwas würde ich eher Kinzo-san zutrauen}"
 stralias trophy_text_21,"{p:18:Silber Trophäe{n}Rosa Musou{n}Have her show you her Golden Dreeeeeeeeeeeeeam!!!}"
 stralias trophy_text_22,"{p:18:Goldene Trophäe{n}Legende der Goldene Hexe{n}Lies bis zum Ende von Episode 1.}"
 stralias trophy_text_23,"{p:18:Goldene Trophäe{n}Turn of the Golden Witch{n}Read to the end of Episode 2.}"
