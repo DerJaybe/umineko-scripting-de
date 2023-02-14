@@ -59,22 +59,22 @@
 `Denkst du etwa ich habe Brüste bekommen nur damit eine Niete wie du damit rumspielen kann?! `
 `Und wenn wir schon über dich reden, du bist ja lächerlich groß geworden, `
 `aber biste auch stärker geworden?!" `
-`"Don't screw with me, I'll show you how much training I've done since back then!!" `
-`"You're pissing me off!! `
-`I'll beat you at your own game!" `
-`This headstrong girl's name is {p:0:朱志香}. `
-`......She was born under the same unlucky star as me, sharing the same kind of weird name. `
-`Anyway, {p:0:朱志香} is pronounced "Jessica". `
-`She's Dad's older brother's daughter. `
-`That older brother happens to be the oldest son of the Ushiromiya family, so for now, it means Jessica is the direct family heir. `
-`Since Jessica and I are the same age and sometimes had little boy-girl squabbles with each other, `
-`we've always been used to fighting and joking around together whenever the relatives gather. `
+`"Verarsch mich nicht, ich zeig dir wie viel ich seit damals trainiert habe!!" `
+`"Du regst mich auf!! `
+`Ich schlage dich mit deinen eigenen Waffen" `
+`Der name dieses eigenwilligen Mädels ist Ushiromiya {p:0:朱志香}. `
+`......Sie wurde unter dem selben Glückstern geboren wie ich, wir teilen uns die selbe Art von komischen Namen. `
+`jedenfalls, {p:0:朱志香} wird "Jessica" ausgesprochen. `
+`Sie ist Dad's älterer Bruder seine Tochter. `
+`Dieser älterer Bruder ist zufälligerweise auch der Älteste Sohn der Ushiromiya Familie, das bedeutet, dass jessica die direkte Familienerbin ist. `
+`Weil Jessica und ich gleich alt sind und wir uns manchmal gezankt haben, `
+`wwaren wir es immer gewohnt, uns zu streiten und zu scherzen, wenn das Familientreffen stattfand. `
 `Jessica grew more quickly, so she always had me beat in terms of size and physical strength. `
-`When we scuffled in a contest of strength, it usually went Jessica's way. `
-`So even though I realized I'd grown bigger, part of my mind was still convinced that I couldn't beat Jessica. `
+`Wenn wir uns in einen Stärketest gemessen haben, ging es meist zu meist gunsten von Jessica aus. `
+`Also selbst, nachdem ich realisiert habe, dass ich größer geworden bin, denkt noch immer ein Teil von mir, dass Jessica stärker ist. `
 `"Hnng! Ghhh......!!" `
 `".........Woh...ah...! `
-`What the...what're you getting all serious for...?! `
+`Was zum... Warum wirst auf einmal do ernst...?! `
 `Owowow..." `
 `"Hey, this is nothing! `
 `Jessica, you've gotten weak." `
