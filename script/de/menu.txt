@@ -1968,7 +1968,7 @@ stralias trophy_text_18,"{p:18:Silber Trophäe{n}Episode 4 Hidden Tea Party{n}Re
 stralias trophy_text_19,"{p:18:Silber Trophäe{n}Eine gewisse Anhäufung von Macht{n}Mehr als 50 Stunden Spielzeit.{n}Aber das ist weit entfernt von 157.680 Stunden.}"
 stralias trophy_text_20,"{p:18:Silber Trophäe{n}So oft kannst du gar nicht geklickt haben{n}Klicke in die Textbox 30.000 mal.{n}Spwas würde ich eher Kinzo-san zutrauen}"
 stralias trophy_text_21,"{p:18:Silber Trophäe{n}Rosa Musou{n}Have her show you her Golden Dreeeeeeeeeeeeeam!!!}"
-stralias trophy_text_22,"{p:18:Goldene Trophäe{n}Legende der Goldene Hexe{n}Lies bis zum Ende von Episode 1.}"
+stralias trophy_text_22,"{p:18:Goldene Trophäe{n}Legende der Goldenen Hexe{n}Lies bis zum Ende von Episode 1.}"
 stralias trophy_text_23,"{p:18:Goldene Trophäe{n}Turn of the Golden Witch{n}Read to the end of Episode 2.}"
 stralias trophy_text_24,"{p:18:Goldene Trophäe{n}Banquet of the Golden Witch{n}Read to the end of Episode 3.}"
 stralias trophy_text_25,"{p:18:Goldene Trophäe{n}Alliance of the Golden Witch{n}Read to the end of Episode 4.}"
