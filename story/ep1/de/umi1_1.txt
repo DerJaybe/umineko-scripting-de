@@ -14,12 +14,12 @@
 `Ich war einfach nur ein wenig gestresst, vor allem weil es das erste Mal war, dass ich in solch einem kleinen Flugzeug war..." `
 `"Sowas nennst du "ein wenig gestresst"? `
 `Heheheh, das klingt so als wäre ein Urlaub auf Übersee eine menge Spaß, Battler-kun. `
-`Würdest du gerne nach Ägypten mit deiner Tante? `
+`Würdest du gerne mit deiner Tante nach Ägypten reisen? `
 `Dann kannst du für ganze 14 Stunden mit einen Flugzeug fliegen." `
 `"Ahhahaha! `
 `Das klingt nach einen guten Plan. `
 `Battler-kun, du solltest dich von Eva nee-san etwas abhärten lassen. `
-`Dennoch, es ist einfach zum totlachen!`
+`Trotzdem ist es einfach zum Totlachen!`
 `Ahhahahaha!" `
 `"Wahhahaha, aber, aber. Jeder hat seine eigenen Stärken und Schwächen. `
 `Es ist gemein sich darüber lustig zu machen. `
@@ -62,75 +62,75 @@
 `"Verarsch mich nicht, ich zeig dir wie viel ich seit damals trainiert habe!!" `
 `"Du regst mich auf!! `
 `Ich schlage dich mit deinen eigenen Waffen" `
-`Der Name dieses eigenwilligen Mädels ist Ushiromiya {p:0:朱志香}. `
+`Der Name dieses dickköpfigen Mädchens ist {p:0:朱志香}. `
 `......Sie wurde unter dem selben Glückstern geboren wie ich, wir teilen uns die selbe Art von komischen Namen. `
 `jedenfalls, {p:0:朱志香} wird "Jessica" ausgesprochen. `
 `Sie ist die Tochter von Dad's älteren Bruder. `
 `Dieser älterer Bruder ist zufälligerweise auch der Älteste Sohn der Ushiromiya Familie, das bedeutet, dass jessica die direkte Familienerbin ist. `
 `Weil Jessica und ich gleich alt sind und wir uns manchmal gezankt haben, `
 `waren wir es immer gewohnt, uns zu streiten und zu scherzen, wenn das Familientreffen stattfand. `
-`Jessica grew more quickly, so she always had me beat in terms of size and physical strength. `
+`Jessica wuchs schneller, so dass sie mich in Bezug auf Größe und Körperkraft immer übertraf. `
 `Wenn wir uns in einem Stärketest gemessen haben, ging es meist zugunsten Jessicas aus. `
 `Also selbst, nachdem ich realisiert habe, dass ich größer geworden bin, denkt noch immer ein Teil von mir, dass Jessica stärker ist. `
 `"Hnng! Ghhh......!!" `
 `".........Woh...ah...! `
-`Was zum... Warum wirst auf einmal do ernst...?! `
+`Was zum... Warum wirst auf einmal so ernst...?! `
 `Owowow..." `
-`"Hey, this is nothing! `
-`Jessica, you've gotten weak." `
-`"Sh-Shut up. `
-`I'm a girl, `
-`so of course I couldn't beat a guy with physical strength forever, right?!" `
-`"Weeelll, you've got a point there! `
-`The meat I put on my arms all went to your chest. `
-`It looks like it'd be a pretty even test of strength between my arms and your boobs, don't you think?!" `
-`"I told you, my boobs aren't for you to feel up!! `
-`Besides, how 'bout you? Did your cute lil' elephant-san get a bit bigger to go with the rest of you?!" `
-`"Stop it, idiot! Nooo, you perv! I'll be ruined for marriage... Don't touch my cro-tch!!" `
-`"D-Don't say stuff people are gonna misinterpret!!" `
-`Honestly, I was so surprised at how feminine Jessica had become that I had to joke around like an idiot to hide it. `
-`......Well, considering what a bossy brat she was six years ago, anyone would be surprised. `
-`And I guess she's just as surprised. `
-`She probably wasn't expecting to lose to me in a test of strength. `
-`After losing that easily, she must be shocked at how much I've grown in the past six years. `
-`......Six years. `
-`Once again, I'm being shown just what a huge gap of time that was. `
-`"Crap, ...total defeat. `
-`It's like I'm no match for you anymore." `
-`"That's not true. `
-`Even Battler-kun must have his weaknesses. `
-`Right, Maria-chan?" `
+`"Hey, das ist noch gar nichts! `
+`Jessica, du bist schwach geworden." `
+`"Ha-Halts Maul. `
+`Ich bin ein Mädchen, `
+`also könnte ich natürlich nicht ewig einen Kerl mit körperlicher Kraft besiegen, oder?!" `
+`"Jaaaaa, da hast du nicht ganz Unrecht! `
+`Das Fleisch, das ich mir auf die Arme gelegt habe, ging alles an deine Brust. `
+`Es sieht so aus, als wäre es ein ziemlich gleichmäßiges Kräftemessen zwischen meinen Armen und deinen Möpsen, meinst du nicht?!" `
+`"Ich habe dir doch gesagt, dass du meine Brüste nicht anfassen sollst!! `
+`Und wie sieht es bei dir aus? Ist dein süßer kleiner Elefant-san ein bisschen größer geworden, damit er zum Rest von dir passt?!" `
+`"Hör auf, du Idiot! Nein, du Perverse! Ich werde für die Ehe verdorben sein... Fass mein Ding nicht an!!" `
+`"R-Rede nicht so, dass die Leute es falsch interpretieren!!" `
+`Ehrlich gesagt, war ich so überrascht, wie weiblich Jessica geworden war, dass ich wie ein Idiot herumalbern musste, um es zu verbergen. `
+`......Nun, wenn man bedenkt, was für eine rechthaberische Göre sie vor sechs Jahren war, würde das jeden überraschen. `
+`Und ich schätze, sie ist genauso überrascht. `
+`Sie hat wahrscheinlich nicht damit gerechnet, dass sie bei einem Kräftemessen gegen mich verlieren würde. `
+`Nachdem sie so leicht verloren hat, muss sie schockiert sein, wie sehr ich in den letzten sechs Jahren gewachsen bin. `
+`......Sechs Jahre. `
+`Wieder einmal wird mir gezeigt, was für eine riesige Zeitspanne das war. `
+`"Scheiße, ...komplette Niederlage. `
+`Es ist, als ob ich dir nicht mehr ebenbürtig bin." `
+`"Das ist nicht wahr. `
+`Auch Battler-kun muss seine Schwächen haben. `
+`Richtig, Maria-chan?" `
 `"Uu-! `
-`Faaall, faaall!!" `
-`"Shh, cut it out, Maria, let's keep that a secret, okay?" `
-`"Faaall? `
-`The hell are you talking about?" `
+`Faaallen, faaallen!!" `
+`"Pst, lass das, Maria, das soll ein Geheimnis bleiben, okay?" `
+`"Faaallen? `
+`Was zum Fick laberst du?" `
 `"Heheh! `
-`Sorry, but there's no chance you'll see that weakness of mine now! `
-`After all, the nightmare plane trip is already over and done with! `
-`Only thing left is the nice, quiet splashing of the boat ride. `
-`I never thought I'd start loving that piece-a-junk boat this much. `
+`Tut mir leid, aber keine Chance, dass du diese Schwäche von mir jetzt siehst! `
+`Immerhin ist die albtraumhafte Flugreise schon vorbei! `
+`Das Einzige, was bleibt, ist das schöne, leise Plätschern der Bootsfahrt. `
+`Ich hätte nie gedacht, dass ich dieses Schrottboot mal so lieben würde. `
 `Ihihi!" `
 `"Huh???? `
-`George nii-san, is there something wrong with his head?" `
-`"You'll understand soon. `
-`Very soon." `
-`At the time, I didn't get what Aniki meant by that big smile... `
-`"What have we here...oooh! `
-`Battler-san, how big you've grown...!" `
-`Who's it this time? `
-`It's an old lady with an apron. `
-`.........O-Oh yeah, that takes me back... I remember now! `
-`"You remember her, right? `
-`It's Kumasawa-san, the servant." `
-`"I could never forget you, Kumasawa baa-chan! `
-`After all, you haven't aged a bit in these past six years. `
-`If anything, I'd say you're looking younger than ever." `
+`George nii-san, stimmt etwas mit seinem Kopf nicht?" `
+`"Du wirst es bald verstehen. `
+`Sehr bald." `
+`Damals verstand ich nicht, was Aniki mit diesem breiten Lächeln meinte.... `
+`"Was haben wir denn hier... oooh! `
+`Battler-san, wie groß du geworden bist...!" `
+`Wer ist es dieses Mal? `
+`Es ist eine alte Dame mit einer Schürze. `
+`.........O-Oh ja, das bringt mich zurück... Jetzt erinnere ich mich! `
+`"Du erinnerst dich doch an sie, oder? `
+`Das ist Kumasawa-san, die Bedienstete." `
+`"Ich könnte dich nie vergessen, Kumasawa Baa-chan! `
+`Schließlich bist du in den letzten sechs Jahren kein bisschen gealtert. `
+`Wenn überhaupt, würde ich sagen, dass du jünger aussiehst als je zuvor." `
 `"Hohohoh! `
-`Lately, my skin's been getting quite smooth and silky! `
-`And look, hasn't my chest gotten bigger as well? `
-`...How'd you like a little feel?" `
-`"Y-You're kidding, right?! `
+`In letzter Zeit ist meine Haut ziemlich glatt und geschmeidig geworden! `
+`Und sieh mal, ist meine Oberweite nicht auch noch größer geworden? `
+`...Wie wär's mit ein bisschen Fummeln?" `
+`"D-Du machst Witze, oder?! `
 `My breast fondling is strictly limited to bouncy girls!" `
 `"Oh, I was quite bouncy in my youth. `
 `Don't be shy, fondle to your heart's content!" `
