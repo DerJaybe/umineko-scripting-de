@@ -236,20 +236,20 @@
 `"Das gilt nur für Flugzeuge. `
 `Jetzt ist alles in Ordnung!" `
 `"Auf jeden Fall ist es der ganze Stolz des Kapitäns, eine Art modifiziertes Hochgeschwindigkeitsboot. `
-`Seems he's got it pretty souped up. `
-`He was bragging about how he attached four-base high efficiency propellers to make it break 40 knots, or something like that. `
-`He talks about it all the time, so I've sorta memorized the spiel." `
-`"Yeah, I've got it memorized too, since we hear about it every year. `
-`The captain says he's been obsessed with modding ever since he lost a speed contest with a foreign boat ages ago. `
-`According to him, that opponent managed to break 30 knots with just a fishing boat." `
-`"And his thirst for a revenge match got him to build an awesome, all-new, super high-speed modded boat. `
-`I'm sure you'll just love it, Battler." `
-`...S-Super high-speed modded boat...? `
-`...My first thought was that this would be much better than some beat-up boat that might sink at any moment...... `
-`...but for some reason, I got this feeling of foreboding... `
-`......Probably just overthinking it. `
-`"Hey, Battler, maybe you should just swim to the island." `
-`"Battler-kun, you shouldn't lean over the railing too much. `
+`Wirkt zumindest so als hätte er es ziemlich aufgemotzt. `
+`Er hat ziemlich angeben damit wie er hochleistungsfähige, vierblättrige Propeller angebracht hat und damit mehr als 40 Knoten schafft, oder etwas in der Art. `
+`Er redet die ganze Zeit davon, also konnte ich mich an etwas von dem Ganzen erinnern." `
+`"Ja, Ich habe es mir auch merken können, wir hören es schließlich fast jedes Jahr. `
+`Der Kapitän sagte, er sei davon besessen sein Boot zu modifizieren, weil er mal ein Wettkampf gegen ein Ausländisches Boot verloren hat vor langer Zeit. `
+`Laut ihm, hat sein Gegner es geschafft 30 Knoten zu brechen, mit nur einen Fischerboot." `
+`"Und seine verlangen nach Rache hat ihm ein geiles, komplett neues, extrem schnelles und modifiziertes Boot gebaut. `
+`Ich bin mir sicher du würdest es lieben, Battler." `
+`...S-Super schnelles modifiziertes Boot...? `
+`...Mein erster Gedanke war, dass es doch viel besser als ein altes abgeranztes Boot sein würde was jeden moment untergehen könnte....... `
+`...aber dann bekomme ich diese Vorahnung das was schlechtes passieren würde... `
+`......ich denke vermutlich einfach zu viel darüber nach. `
+`"Hey,Battler, vielleicht solltest du einfach zu Insel schwimmen." `
+`"Battler-kun, du solltest dich nicht so sehr über das Geländer lehnen. `
 `You might fall." `
 `"Uu-uu-!! `
 `Faaall, faaall!!" `
