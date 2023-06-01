@@ -246,11 +246,11 @@
 `"Battler-kun, `
 `Hast du Rudolf-san gesehen?" `
 `"Huh? `
-`Er hat sich vor einer Weile auf den Weg ins Bad gemacht. `
+`Er hat sich vor einer Weile auf die Toilette begeben. `
 `Ist er noch nicht zurück? `
 `Heh, vielleicht ist der arme Knacker tot umgefallen, {c:86EF9C:namunamunamu}." `
 `"So redet man nicht über seinen eigenen Vater. `
-`Aber es ist nicht das erste Mal, dass er so lange im Bad braucht." `
+`Aber es ist nicht das erste Mal, dass er so lange auf der Toilette sitzt." `
 `"Ja, der Kerl war schon immer so. `
 `Muss er wirklich jedes Mal eine Zeitschrift mitnehmen, wenn er kacken muss? `
 `Und was um alles in der Welt macht er da drin mit diesen speziellen Magazinen?! `
